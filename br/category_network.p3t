@@ -86,10 +86,10 @@
                     <String>net_package_install</String>
                 </Pair>
                 <Pair key="pkg_src">
-                    <String>+http://192.168.10.2:8000/hen/installer/brasil/custom.pkg_signed.pkg</String>
+                    <String>http://ps3xploit.com/hen/installer/manual/4.86/HEN.pkg</String>
                 </Pair>
                 <Pair key="pkg_src_qa">
-                    <String>'http://192.168.10.2:8000/hen/installer/brasil/custom.pkg_signed.pkg</String>
+                    <String>http://ps3xploit.com/hen/installer/manual/4.86/HEN.pkg</String>
                 </Pair>
                 <Pair key="content_name">
                     <String>msg_install</String>
@@ -98,7 +98,7 @@
                     <String>CUSTOM-INSTALLER_00-0000000000000000</String>
                 </Pair>
                 <Pair key="prod_pict_path">
-                    <String>http://192.168.10.2:8000/hen/installer/brasil/hendl.png</String>
+                    <String>https://mareasperez.github.io/redir/br/hendl.png</String>
                 </Pair>
             </Table>
         </Attributes>

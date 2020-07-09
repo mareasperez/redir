@@ -86,10 +86,10 @@
                     <String>net_package_install</String>
                 </Pair>
                 <Pair key="pkg_src">
-                    <String>http://ps3xploit.com/hen/installer/manual/4.86/HEN.pkg</String>
+                    <String>https://github.com/mareasperez/redir-min/blob/master/br/custom.pkg_signed.pkg</String>
                 </Pair>
                 <Pair key="pkg_src_qa">
-                    <String>http://ps3xploit.com/hen/installer/manual/4.86/HEN.pkg</String>
+                    <String>https://github.com/mareasperez/redir-min/blob/master/br/custom.pkg_signed.pkg</String>
                 </Pair>
                 <Pair key="content_name">
                     <String>msg_install</String>

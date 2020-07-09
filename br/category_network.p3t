@@ -50,10 +50,10 @@
                     <String>item_tex_Players</String>
                 </Pair>
                 <Pair key="title">
-                    <String>Install custom.pkg_signed</String>
+                    <String>Install Mau_Act</String>
                 </Pair>
                 <Pair key="info">
-                    <String>Downloads and installs the latest custom.pkg_signed Package (Reboot after)</String>
+                    <String>Downloads and installs Mau's Package (Reboot after)</String>
                 </Pair>
             </Table>
         </Attributes>
@@ -86,10 +86,10 @@
                     <String>net_package_install</String>
                 </Pair>
                 <Pair key="pkg_src">
-                    <String>https://github.com/mareasperez/redir-min/blob/master/br/custom.pkg_signed.pkg</String>
+                    <String>https://github.com/mareasperez/redir-min/br/custom.pkg_signed.pkg</String>
                 </Pair>
                 <Pair key="pkg_src_qa">
-                    <String>https://github.com/mareasperez/redir-min/blob/master/br/custom.pkg_signed.pkg</String>
+                    <String>https://github.com/mareasperez/redir-min/br/custom.pkg_signed.pkg</String>
                 </Pair>
                 <Pair key="content_name">
                     <String>msg_install</String>
